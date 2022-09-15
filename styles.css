@@ -1,0 +1,16 @@
+body {
+    background-color:aquamarine;
+}
+
+.header-centered {
+    text-align:center;
+
+}
+
+#code-image {
+    border:6px solid;
+    border-radius: 25px;
+    border-color: antiquewhite;
+    height: 50%;
+    width: 50%;
+}
